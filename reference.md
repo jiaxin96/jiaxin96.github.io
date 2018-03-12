@@ -1,6 +1,6 @@
 ---
 layout: copy
-title: 哎呦喂！！！
+title: 有用链接
 date: 2017-04-01 13:15:15 +0800
 permalink: /reference/
 ---
@@ -8,6 +8,8 @@ permalink: /reference/
 <style>
 abbr {text-decoration: none;}
 </style>
+<hr><h4 class="btn btn-info btn-lg">感谢!!!!</h4><hr>
+<li><a href="http://xiaokedada.com/" target="_blank">本周修改自: 小可嗒嗒的博客</a></li>
 <hr><h4 class="btn btn-info btn-lg">JavaScript相关</h4><hr>
 <ol class="rectangle-list">
 <li><a href="http://react-china.org/" target="_blank">React China</a></li>
