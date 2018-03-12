@@ -1383,7 +1383,7 @@ a:focus{outline:#333 dotted thin;outline:-webkit-focus-ring-color auto 5px;outli
 .img-responsive{display:block;max-width:100%;height:auto}
 .img-rounded{border-radius:6px}
 .img-thumbnail{padding:4px;line-height:1.42857143;border:1px solid #ddd;border-radius:4px;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;display:inline-block;max-width:100%;height:auto}
-.img-circle{border-radius:50%}
+.img-circle{border-radius:50%;width:87%;}
 .shake:hover{-webkit-animation:shake .5s;-moz-animation:shake .5s;animation:shake .5s}
 @keyframes shake{0%,10%,100%,55%,90%,94%,98%{-webkit-transform:scale(1,1)}
 25%{-webkit-transform:scale(1.28,.74)}
