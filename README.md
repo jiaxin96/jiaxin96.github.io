@@ -1,6 +1,7 @@
 # 关于这个Jekyll模板主题 ⚽⚽⚽
 ## 感谢大佬提供的模板
-[大佬](https://github.com/maoxiaoke/maoxiaoke.github.io)
+
+[模板来源](https://github.com/maoxiaoke/maoxiaoke.github.io)
 
 ## 预览
 
