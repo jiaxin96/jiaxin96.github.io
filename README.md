@@ -1,6 +1,6 @@
 # 关于这个Jekyll模板主题 ⚽⚽⚽
 ## 感谢大佬提供的模板
-![大佬](https://github.com/maoxiaoke/maoxiaoke.github.io)
+[大佬](https://github.com/maoxiaoke/maoxiaoke.github.io)
 
 ## 预览
 
@@ -169,7 +169,7 @@ Copyright © 2017 M/J. All rights reserved.
 
 您可以选择手机支付宝扫一扫
 
-<img src="/styles/images/zhifubao.png?raw=true" alt="支付宝二维码付款给JX" />
+<img src="/styles/images/zfb.png?raw=true" alt="支付宝二维码付款给JX" />
 
 ### 赞助方式2： 微信扫一扫
 
