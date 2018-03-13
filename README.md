@@ -6,7 +6,7 @@
 
 ### 首页
 
-![首页](/style/images/blog/blog.png)
+![首页](/styles/images/blog/blog.png)
 
 + 首页: 博客首页
 + 博文分类: 按照categories对文章进行分类
