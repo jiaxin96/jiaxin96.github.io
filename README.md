@@ -1,22 +1,23 @@
 # 关于这个Jekyll模板主题 ⚽⚽⚽
+## 感谢大佬提供的模板
+![大佬](https://github.com/maoxiaoke/maoxiaoke.github.io)
 
 ## 预览
 
 ### 首页
 
-![首页](https://github.com/maoxiaoke/maoxiaoke.github.io/blob/master/styles/images/blog/blog.png?raw=true)
+![首页](https://github.com/jiaxin96/jiaxin96.github.io)
 
 + 首页: 博客首页
 + 博文分类: 按照categories对文章进行分类
 + 标签分类: 按照tags对文章进行分类
 + 外域链接: 存放一些想要其他网站的链接
-+ DEMO: 存放个人项目
 + 打赏我: 提供donation
-+ 关于我: 个人CV
+<del>+ 关于我: 个人CV</del>还需完善
 
 ### 文章页
 
-![文章页](https://github.com/maoxiaoke/maoxiaoke.github.io/blob/master/styles/images/blog/page.png?raw=true)
+![文章页](https://github.com/jiaxin96/jiaxin96.github.io/blob/master/styles/images/blog/page.png?raw=true)
 
 ---
 
@@ -141,25 +142,15 @@ Copyright © 2017 M/J. All rights reserved.
 
 ---
 
-## Update Log
-
-### 2017.07.16
-
+## 修改记录
 - [-] 删除网易云跟帖
 - [+] 将网易云跟帖更改为gitment
-- [+] 添加一个新模块: TalkToMe
-
-### 2017.06.17
-
+- [-] 删一个新模块: TalkToMe
 - [^] 改变文章字体
-- [+] 增加不蒜子
+- [-] 去掉不蒜子
 - [^] 将多说更改为网易云跟帖
 - [+] 添加搜索功能
 - [^] 代码高亮改为rouge
-
-
-### 2017.04.20
-
 - [+] First commit
 - [+] 添加首页Canvas效果
 - [+] 添加日历控件
@@ -178,22 +169,16 @@ Copyright © 2017 M/J. All rights reserved.
 
 您可以选择手机支付宝扫一扫
 
-<img src="https://github.com/maoxiaoke/maoxiaoke.github.io/blob/master/styles/images/zhifubao.jpg?raw=true" alt="支付宝二维码付款给小可嗒嗒" />
+<img src="/styles/images/zhifubao.png?raw=true" alt="支付宝二维码付款给JX" />
 
 ### 赞助方式2： 微信扫一扫
 
 您可以选择手机微信扫一扫
 
-![微信二维码付款给小可嗒嗒](https://github.com/maoxiaoke/maoxiaoke.github.io/blob/master/styles/images/wechat.jpg?raw=true)
+![微信二维码付款给JX](/styles/images/wechat.png?raw=true)
 
 ### 赞助名单
 
-+ 2017-02-21 09:52:10 收到微信用户xxx的`￥1.00`
-+ 2017-02-21 15:59:00 收到支付宝用户241***@qq.com的`￥6.66`
-+ 2017-02-21 19:53:37 收到微信用户xxx的`￥6.66`
-+ 2017-02-21 22:33:33 收到微信用户xxx`￥6.66`
-+ 2017-02-22 08:36:00 收到支付宝用户116***@qq.com的`￥1.66`
-+ 2017-07-24 22:05:00 收到支付宝用户118***10的`￥6.66`
 
 手动笔芯
 

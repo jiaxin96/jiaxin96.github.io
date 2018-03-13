@@ -19,7 +19,7 @@ date: 2018-03-13 00:00:18 +0800
 
 您可以选择手机支付宝扫一扫
 
-<img src="{{ '/styles/images/zhifubao.jpg' | prepend: site.baseurl }}" alt="支付宝二维码付款给JX" />
+<img src="{{ '/styles/images/zfb.png' | prepend: site.baseurl }}" alt="支付宝二维码付款给JX" />
 
 -----------------------------------------
 
@@ -27,7 +27,7 @@ date: 2018-03-13 00:00:18 +0800
 
 您可以选择手机微信扫一扫
 
-![微信二维码付款给嘉昕]({{ '/styles/images/wechat.jpg' | prepend: site.baseurl }})
+![微信二维码付款给嘉昕]({{ '/styles/images/wechat.png' | prepend: site.baseurl }})
 
 ------------------------------------------
 
