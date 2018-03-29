@@ -3,7 +3,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" >
 	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0">
 	<title>{{ page.title }}</title>
-	<meta name="baidu-site-verification" content="x0uJ64LQjM" />
+	<meta name="baidu-site-verification" content="JWKk9Fx7OK" />
 	<meta name="apple-mobile-web-app-capable" content="yes">
 	<meta name="apple-mobile-web-app-status-bar-style" content="black">
 	<meta name="msapplication-tap-highlight" content="no">
@@ -21,12 +21,17 @@
     	<script>window.location.href='/upgrade-your-browser.html';</script>
     <![endif]-->
 	<script>
-		var _hmt = _hmt || [];
-		(function() {
-  			var hm = document.createElement("script");
-  			hm.src = "https://hm.baidu.com/hm.js?40ab350f7c60a488b8e8093960c0faf2";
-  			var s = document.getElementsByTagName("script")[0]; 
-  			s.parentNode.insertBefore(hm, s);
+		(function () {
+			var bp = document.createElement('script');
+			var curProtocol = window.location.protocol.split(':')[0];
+			if (curProtocol === 'https') {
+				bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+			}
+			else {
+				bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+			}
+			var s = document.getElementsByTagName("script")[0];
+			s.parentNode.insertBefore(bp, s);
 		})();
 	</script>
 </head>
